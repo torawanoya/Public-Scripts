@@ -1,5 +1,5 @@
 -- // This is not my script. Dummy UI Library isn't made by me, I just upload it to I can use when I need
--- // Example for thi UI Library is in scriptblox.com | Search "Dummy UI Library"
+-- // Example for this UI Library is in scriptblox.com | Search "Dummy UI Library"
 
 Library = {}
 SaveTheme = {}
